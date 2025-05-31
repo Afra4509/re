@@ -3,7 +3,6 @@
 [![Shiny](https://img.shields.io/badge/Shiny-Dashboard-blue)](https://nutritrack.shinyapps.io/nutritrack/)
 [![R](https://img.shields.io/badge/R-4.0%2B-blue)](https://www.r-project.org/)
 
-
 NutriTrack adalah aplikasi web interaktif berbasis R Shiny yang dirancang untuk memantau pertumbuhan anak dan mencegah stunting di Indonesia. Aplikasi ini menyediakan tools untuk kalkulasi status gizi, rekomendasi nutrisi, dan visualisasi data stunting berdasarkan standar WHO.
 
 ## 🚀 Demo Aplikasi
@@ -147,12 +146,11 @@ Kami menyambut kontribusi dari komunitas! Jika Anda ingin berkontribusi:
 
 ## 📝 Roadmap
 
-- [ ] Integrasi dengan API data real-time
-- [ ] Fitur tracking pertumbuhan berkala
-- [ ] Notifikasi dan reminder
-- [ ] Export laporan PDF
-- [ ] Multi-language support
-- [ ] Mobile app version
+- [ ] Fitur tracking pertumbuhan berkala untuk satu anak
+- [ ] Export laporan hasil analisis ke PDF
+- [ ] Penambahan data stunting tahun terbaru
+- [ ] Optimisasi performa aplikasi
+- [ ] Penambahan tips dan panduan yang lebih lengkap
 
 ## 🐛 Melaporkan Bug
 
@@ -167,6 +165,9 @@ Jika Anda menemukan bug atau memiliki saran, silakan buat [issue baru](https://g
 - **Repository**: [https://github.com/njwandyna/nutritrack](https://github.com/njwandyna/nutritrack)
 - **Live Demo**: [https://nutritrack.shinyapps.io/nutritrack/](https://nutritrack.shinyapps.io/nutritrack/)
 - **Issues**: [GitHub Issues](https://github.com/njwandyna/nutritrack/issues)
+- **Contact Person**:
+  - **Najwa**: [+62 896-2077-5558](https://wa.me/6289620775558)
+  - **Yani**: [+62 831-0581-8488](https://wa.me/6283105818488)
 
 
 ## 🙏 Acknowledgments
@@ -175,7 +176,3 @@ Jika Anda menemukan bug atau memiliki saran, silakan buat [issue baru](https://g
 - [Kementerian Kesehatan RI](https://www.kemkes.go.id/) untuk data stunting Indonesia
 - [Kementerian Dalam Negeri RI](https://www.kemendagri.go.id/) untuk dashboard data stunting
 - [R Shiny Community](https://shiny.rstudio.com/) untuk dokumentasi dan tutorial
-
----
-
-
